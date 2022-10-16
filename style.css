@@ -1,0 +1,123 @@
+body{
+    background-color: #FFBC80;
+    /* color: #FC4F4F; */
+    margin: 0;
+    font-family: Nanum Gothic;
+}
+
+.container{
+    background-color: #F76E11;
+    margin: 0;
+    height: 60px;
+    font-family: Roboto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+    width: 75%;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    letter-spacing: 2px;
+    
+    /* flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    margin-right: 10px;
+    align-items: center;
+    width: 15%; */
+} 
+
+.home ,.about, .contact{
+    /* height: 100%; */
+    /* background-color: black; */
+    align-items: center;
+    padding: 15px;
+}
+
+.home:hover,.about:hover, .contact:hover{
+    background-color:#fb0b0b;
+    color: white;
+}
+
+
+
+/* ul{
+    list-style: none;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav li{
+    display: inline;
+    padding: 0 10px;
+}
+
+ul li{
+    display: inline;
+    background-color: aliceblue;
+    height: 100%;
+    padding: 0 10px;
+}
+
+li:hover{
+    background-color: #FFBC80;
+} */
+
+img.chat_bot{
+    width: 80px;
+    height: 80px;
+    margin: 15px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 18px;
+    right: 140px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.chat_area{
+    position: fixed;
+    bottom: 50px;
+    right: 28px;
+
+}
+
+img.chat_bot:hover{
+    transform: scale(1.2);
+    /* right:150px; */
+}
+
+.chat_box{
+    display: none;
+    border-radius: 20px;
+}
+
+
+/* const url = 'https://worldwide-restaurants.p.rapidapi.com/search';
+
+const options = {
+  method: 'POST',
+  headers: {
+    'content-type': 'application/x-www-form-urlencoded',
+    'X-RapidAPI-Key': 'SIGN-UP-FOR-KEY',
+    'X-RapidAPI-Host': 'worldwide-restaurants.p.rapidapi.com'
+  },
+  body: encodedParams
+};
+
+fetch(url, options)
+	.then(res => res.json())
+	.then(json => console.log(json))
+	.catch(err => console.error('error:' + err)); */

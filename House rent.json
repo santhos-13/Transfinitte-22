@@ -1,0 +1,82 @@
+[
+ {
+   "Sno": 1,
+   "BHK": 4,
+   "Address": "Syndicate Bank Colony",
+   "Size(Sq Ft)": 5000,
+   "Deposit(Rs)": 1000000,
+   "Rent(Rs)": 150000
+ },
+ {
+   "Sno": 2,
+   "BHK": 2,
+   "Address": "Banswadi - Linea Orchid",
+   "Size(Sq Ft)": 1052,
+   "Deposit(Rs)": 100000,
+   "Rent(Rs)": 20000
+ },
+ {
+   "Sno": 3,
+   "BHK": 2,
+   "Address": "Nandi Gardens JP Nagar",
+   "Size(Sq Ft)": 960,
+   "Deposit(Rs)": 100000,
+   "Rent(Rs)": 15500
+ },
+ {
+   "Sno": 4,
+   "BHK": 3,
+   "Address": "Shanders Dwellington",
+   "Size(Sq Ft)": 1100,
+   "Deposit(Rs)": 1500000,
+   "Rent(Rs)": 21200
+ },
+ {
+   "Sno": 5,
+   "BHK": 2,
+   "Address": "Muneshwara Nagar ",
+   "Size(Sq Ft)": 1050,
+   "Deposit(Rs)": 1000000,
+   "Rent(Rs)": 26900
+ },
+ {
+   "Sno": 6,
+   "BHK": 1,
+   "Address": "Horamavu Agara Bus Stop",
+   "Size(Sq Ft)": 665,
+   "Deposit(Rs)": 50000,
+   "Rent(Rs)": 10100
+ },
+ {
+   "Sno": 7,
+   "BHK": 1,
+   "Address": "Ashwath Dhamma",
+   "Size(Sq Ft)": 700,
+   "Deposit(Rs)": 12500,
+   "Rent(Rs)": 10000
+ },
+ {
+   "Sno": 8,
+   "BHK": 2,
+   "Address": "Manorayanapalya",
+   "Size(Sq Ft)": 1100,
+   "Deposit(Rs)": 100000,
+   "Rent(Rs)": 15000
+ },
+ {
+   "Sno": 9,
+   "BHK": 1,
+   "Address": "Medahalli",
+   "Size(Sq Ft)": 560,
+   "Deposit(Rs)": 10000,
+   "Rent(Rs)": 6000
+ },
+ {
+   "Sno": 10,
+   "BHK": 1,
+   "Address": "Rajajinagar",
+   "Size(Sq Ft)": 250,
+   "Deposit(Rs)": 10000,
+   "Rent(Rs)": 8000
+ }
+]
